@@ -1,0 +1,22 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Yves Toiser",
+  "license": "MIT",
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.9",
+    "dotenv": "^16.0.1",
+    "eth-gas-reporter": "^0.2.25"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/test-helpers": "latest",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.7.4"
+  }
+}
